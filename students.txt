@@ -13,7 +13,7 @@
 14102730  Kevin Cusack
 15352381  Eamon Dunne
 16280042  Andrew East
-14104204
+14104204  Alan Fahy
 15407302
 15460718
 15310091  Eamonn Hannon
@@ -26,3 +26,6 @@
 17102557
 14372681  Kevin McGinley
 17101336  Antoine Orgerit
+15349941  Marc Blain
+15332311  Conor Redington
+
