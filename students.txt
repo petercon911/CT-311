@@ -13,7 +13,7 @@
 14102730  Kevin Cusack
 15352381  Eamon Dunne
 15539577  Edward Dunne
-16280042 Andrew East
+16280042  Andrew East
 14104204  Alan Fahy
 15407302
 15460718
@@ -34,4 +34,5 @@
 15736825  Chika Onyia
 15315901  Taidgh Murray
 17101210  Ihor Debelyi
+14408498  Alan Devane
 
