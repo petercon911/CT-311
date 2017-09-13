@@ -8,15 +8,15 @@
 15428908
 15376396  Aisling Carrick
 15333866
-15438028
-15359856
+15438028  Dylan Costello
+15359856  Niall Cunningham
 14102730  Kevin Cusack
 15352381  Eamon Dunne
 15539577  Edward Dunne
-16280042 Andrew East
+16280042  Andrew East
 14104204  Alan Fahy
 15407302
-15460718
+15460718  Andre Godinez
 15310091  Eamonn Hannon
 15488702
 12468452  Matthew Flanagan
@@ -30,8 +30,15 @@
 17101336  Antoine Orgerit
 15349941  Marc Blain
 15332311  Conor Redington
+13318731  James Hehir
+15448408  Fergus Ryan
 15432788  Grzegorz Baluszek
 15736825  Chika Onyia
 15315901  Taidgh Murray
+17101210  Ihor Debelyi 
+15439448  Kevin Faherty
 17101210  Ihor Debelyi
 14300031  Adam Ray
+15387951  Philip Mac Aoidh
+15337336  Stephen Treacy
+14408498  Alan Devane
